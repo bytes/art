@@ -2,7 +2,7 @@
   <br />
   <img width="250px" src="https://github.com/bytes/art/blob/master/white.png" />
   <br /><br /><br />
+  Art
 </h1>
 
-# Art
 Bytesco branding assest
