@@ -6,3 +6,9 @@
 </h1>
 
 Bytesco branding assest
+
+## Usage
+
+```md
+[![Supported by bytes](http://art.bytes.gq/badge.svg)](bytes.gq)
+```
